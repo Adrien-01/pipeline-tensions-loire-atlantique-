@@ -1,0 +1,208 @@
+REG,Région,DEP,CODARR,CODCAN,CODCOM,COM,Commune,PMUN,PCAP,PTOT,code_departement
+52,Pays de la Loire,44,5,08,1,44001,Abbaretz,2052,40,2092,44
+52,Pays de la Loire,44,2,07,2,44002,Aigrefeuille-sur-Maine,4121,142,4263,44
+52,Pays de la Loire,44,5,01,3,44003,Ancenis-Saint-Géréon,11346,423,11769,44
+52,Pays de la Loire,44,3,,5,44005,Chaumes-en-Retz,7288,112,7400,44
+52,Pays de la Loire,44,3,09,6,44006,Assérac,1881,47,1928,44
+52,Pays de la Loire,44,5,19,7,44007,Avessac,2451,64,2515,44
+52,Pays de la Loire,44,2,29,9,44009,Basse-Goulaine,9617,215,9832,44
+52,Pays de la Loire,44,3,02,10,44010,Batz-sur-Mer,2799,95,2894,44
+52,Pays de la Loire,44,3,20,12,44012,La Bernerie-en-Retz,3523,45,3568,44
+52,Pays de la Loire,44,3,27,13,44013,Besné,3317,42,3359,44
+52,Pays de la Loire,44,2,28,14,44014,Le Bignon,3967,71,4038,44
+52,Pays de la Loire,44,5,03,15,44015,Blain,10352,175,10527,44
+52,Pays de la Loire,44,2,30,16,44016,La Boissière-du-Doré,1114,17,1131,44
+52,Pays de la Loire,44,2,21,18,44018,Bouaye,8281,138,8419,44
+52,Pays de la Loire,44,3,03,19,44019,Bouée,1100,12,1112,44
+52,Pays de la Loire,44,2,21,20,44020,Bouguenais,20590,303,20893,44
+52,Pays de la Loire,44,3,10,21,44021,Villeneuve-en-Retz,5004,85,5089,44
+52,Pays de la Loire,44,2,07,22,44022,Boussay,2814,51,2865,44
+52,Pays de la Loire,44,5,03,23,44023,Bouvron,3067,45,3112,44
+52,Pays de la Loire,44,2,21,24,44024,Brains,2760,55,2815,44
+52,Pays de la Loire,44,3,03,25,44025,Campbon,4031,67,4098,44
+52,Pays de la Loire,44,2,04,26,44026,Carquefou,20535,589,21124,44
+52,Pays de la Loire,44,5,18,27,44027,Casson,2600,44,2644,44
+52,Pays de la Loire,44,5,18,28,44028,Le Cellier,4011,105,4116,44
+52,Pays de la Loire,44,2,30,29,44029,Divatte-sur-Loire,7158,117,7275,44
+52,Pays de la Loire,44,3,09,30,44030,La Chapelle-des-Marais,4424,95,4519,44
+52,Pays de la Loire,44,5,06,31,44031,La Chapelle-Glain,811,15,826,44
+52,Pays de la Loire,44,2,30,32,44032,La Chapelle-Heulin,3443,72,3515,44
+52,Pays de la Loire,44,3,03,33,44033,La Chapelle-Launay,3246,66,3312,44
+52,Pays de la Loire,44,2,05,35,44035,La Chapelle-sur-Erdre,20483,573,21056,44
+52,Pays de la Loire,44,5,06,36,44036,Châteaubriant,12231,431,12662,44
+52,Pays de la Loire,44,2,31,37,44037,Château-Thébaud,3138,212,3350,44
+52,Pays de la Loire,44,3,20,38,44038,Chauvé,3035,39,3074,44
+52,Pays de la Loire,44,2,10,39,44039,Cheix-en-Retz,1172,16,1188,44
+52,Pays de la Loire,44,2,28,41,44041,La Chevrolière,6342,107,6449,44
+52,Pays de la Loire,44,2,07,43,44043,Clisson,7459,278,7737,44
+52,Pays de la Loire,44,5,08,44,44044,Conquereuil,1072,25,1097,44
+52,Pays de la Loire,44,2,03,45,44045,Cordemais,3954,49,4003,44
+52,Pays de la Loire,44,3,23,46,44046,Corsept,2615,59,2674,44
+52,Pays de la Loire,44,2,24,47,44047,Couëron,23541,267,23808,44
+52,Pays de la Loire,44,5,01,48,44048,Couffé,2534,44,2578,44
+52,Pays de la Loire,44,3,02,49,44049,Le Croisic,4081,57,4138,44
+52,Pays de la Loire,44,3,19,50,44050,Crossac,2985,62,3047,44
+52,Pays de la Loire,44,5,08,51,44051,Derval,3578,337,3915,44
+52,Pays de la Loire,44,3,27,52,44052,Donges,8117,84,8201,44
+52,Pays de la Loire,44,3,19,53,44053,Drefféac,2288,39,2327,44
+52,Pays de la Loire,44,5,06,54,44054,Erbray,3062,60,3122,44
+52,Pays de la Loire,44,3,02,55,44055,La Baule-Escoublac,16613,551,17164,44
+52,Pays de la Loire,44,5,05,56,44056,Fay-de-Bretagne,3852,63,3915,44
+52,Pays de la Loire,44,5,19,57,44057,Fégréac,2257,56,2313,44
+52,Pays de la Loire,44,5,06,58,44058,Fercé,502,9,511,44
+52,Pays de la Loire,44,3,23,61,44061,Frossay,3289,56,3345,44
+52,Pays de la Loire,44,5,03,62,44062,Le Gâvre,1880,31,1911,44
+52,Pays de la Loire,44,2,07,63,44063,Gétigné,3794,86,3880,44
+52,Pays de la Loire,44,2,07,64,44064,Gorges,5090,357,5447,44
+52,Pays de la Loire,44,5,06,65,44065,Grand-Auverné,770,20,790,44
+52,Pays de la Loire,44,5,05,66,44066,Grandchamp-des-Fontaines,6910,113,7023,44
+52,Pays de la Loire,44,5,08,67,44067,Guémené-Penfao,5242,105,5347,44
+52,Pays de la Loire,44,3,19,68,44068,Guenrouet,3577,63,3640,44
+52,Pays de la Loire,44,3,09,69,44069,Guérande,16684,575,17259,44
+52,Pays de la Loire,44,2,31,70,44070,La Haie-Fouassière,4734,116,4850,44
+52,Pays de la Loire,44,2,29,71,44071,Haute-Goulaine,5992,156,6148,44
+52,Pays de la Loire,44,3,09,72,44072,Herbignac,7178,124,7302,44
+52,Pays de la Loire,44,5,18,73,44073,Héric,6528,119,6647,44
+52,Pays de la Loire,44,2,24,74,44074,Indre,4172,49,4221,44
+52,Pays de la Loire,44,5,06,75,44075,Issé,1825,38,1863,44
+52,Pays de la Loire,44,5,08,76,44076,Jans,1381,21,1402,44
+52,Pays de la Loire,44,5,18,77,44077,Joué-sur-Erdre,2753,33,2786,44
+52,Pays de la Loire,44,5,06,78,44078,Juigné-des-Moutiers,327,4,331,44
+52,Pays de la Loire,44,2,30,79,44079,Le Landreau,3214,366,3580,44
+52,Pays de la Loire,44,3,03,80,44080,Lavau-sur-Loire,769,17,786,44
+52,Pays de la Loire,44,2,28,81,44081,Legé,4769,117,4886,44
+52,Pays de la Loire,44,5,18,82,44082,Ligné,5593,108,5701,44
+52,Pays de la Loire,44,2,28,83,44083,La Limouzinière,2468,54,2522,44
+52,Pays de la Loire,44,2,30,84,44084,Le Loroux-Bottereau,8595,152,8747,44
+52,Pays de la Loire,44,5,06,85,44085,Louisfert,949,32,981,44
+52,Pays de la Loire,44,5,08,86,44086,Lusanger,1064,23,1087,44
+52,Pays de la Loire,44,2,10,87,44087,Machecoul-Saint-Même,7665,231,7896,44
+52,Pays de la Loire,44,2,07,88,44088,Maisdon-sur-Sèvre,3071,53,3124,44
+52,Pays de la Loire,44,3,03,89,44089,Malville,3689,54,3743,44
+52,Pays de la Loire,44,2,10,90,44090,La Marne,1578,23,1601,44
+52,Pays de la Loire,44,5,08,91,44091,Marsac-sur-Don,1529,34,1563,44
+52,Pays de la Loire,44,5,08,92,44092,Massérac,670,8,678,44
+52,Pays de la Loire,44,2,04,94,44094,Mauves-sur-Loire,3393,68,3461,44
+52,Pays de la Loire,44,5,06,95,44095,La Meilleraye-de-Bretagne,1587,27,1614,44
+52,Pays de la Loire,44,5,01,96,44096,Mésanger,4681,94,4775,44
+52,Pays de la Loire,44,3,09,97,44097,Mesquer,2156,50,2206,44
+52,Pays de la Loire,44,3,19,98,44098,Missillac,5619,98,5717,44
+52,Pays de la Loire,44,5,06,99,44099,Moisdon-la-Rivière,1964,60,2024,44
+52,Pays de la Loire,44,2,07,100,44100,Monnières,2341,58,2399,44
+52,Pays de la Loire,44,2,23,101,44101,La Montagne,6523,134,6657,44
+52,Pays de la Loire,44,2,28,102,44102,Montbert,3346,72,3418,44
+52,Pays de la Loire,44,3,27,103,44103,Montoir-de-Bretagne,7289,96,7385,44
+52,Pays de la Loire,44,5,01,104,44104,Montrelais,843,7,850,44
+52,Pays de la Loire,44,5,08,105,44105,Mouais,356,7,363,44
+52,Pays de la Loire,44,3,20,106,44106,Les Moutiers-en-Retz,1846,20,1866,44
+52,Pays de la Loire,44,5,18,107,44107,Mouzeil,2004,32,2036,44
+52,Pays de la Loire,44,2,30,108,44108,Mouzillon,2903,50,2953,44
+52,Pays de la Loire,44,2,,109,44109,Nantes,325070,4739,329809,44
+52,Pays de la Loire,44,5,18,110,44110,Nort-sur-Erdre,9448,191,9639,44
+52,Pays de la Loire,44,5,18,111,44111,Notre-Dame-des-Landes,2335,39,2374,44
+52,Pays de la Loire,44,5,06,112,44112,Noyal-sur-Brutz,579,11,590,44
+52,Pays de la Loire,44,5,08,113,44113,Nozay,4280,89,4369,44
+52,Pays de la Loire,44,2,25,114,44114,Orvault,28341,608,28949,44
+52,Pays de la Loire,44,5,01,115,44115,Oudon,3915,80,3995,44
+52,Pays de la Loire,44,3,23,116,44116,Paimbœuf,3030,99,3129,44
+52,Pays de la Loire,44,2,30,117,44117,Le Pallet,3374,57,3431,44
+52,Pays de la Loire,44,5,01,118,44118,Pannecé,1454,27,1481,44
+52,Pays de la Loire,44,2,10,119,44119,Paulx,2042,29,2071,44
+52,Pays de la Loire,44,2,23,120,44120,Le Pellerin,5335,220,5555,44
+52,Pays de la Loire,44,5,06,121,44121,Petit-Auverné,437,4,441,44
+52,Pays de la Loire,44,5,18,122,44122,Petit-Mars,3865,71,3936,44
+52,Pays de la Loire,44,5,08,123,44123,Pierric,1011,15,1026,44
+52,Pays de la Loire,44,5,01,124,44124,Le Pin,829,12,841,44
+52,Pays de la Loire,44,3,09,125,44125,Piriac-sur-Mer,2663,62,2725,44
+52,Pays de la Loire,44,3,20,126,44126,La Plaine-sur-Mer,4617,75,4692,44
+52,Pays de la Loire,44,2,07,127,44127,La Planche,2802,42,2844,44
+52,Pays de la Loire,44,5,19,128,44128,Plessé,5281,104,5385,44
+52,Pays de la Loire,44,3,19,129,44129,Pontchâteau,11249,308,11557,44
+52,Pays de la Loire,44,2,28,130,44130,Pont-Saint-Martin,6942,85,7027,44
+52,Pays de la Loire,44,3,20,131,44131,Pornic,18382,486,18868,44
+52,Pays de la Loire,44,3,02,132,44132,Pornichet,12530,307,12837,44
+52,Pays de la Loire,44,2,10,133,44133,Port-Saint-Père,3046,53,3099,44
+52,Pays de la Loire,44,5,01,134,44134,Pouillé-les-Côteaux,1050,21,1071,44
+52,Pays de la Loire,44,3,02,135,44135,Le Pouliguen,4007,107,4114,44
+52,Pays de la Loire,44,3,20,136,44136,Préfailles,1246,29,1275,44
+52,Pays de la Loire,44,3,03,137,44137,Prinquiau,3557,66,3623,44
+52,Pays de la Loire,44,5,08,138,44138,Puceul,1124,17,1141,44
+52,Pays de la Loire,44,3,03,139,44139,Quilly,1541,22,1563,44
+52,Pays de la Loire,44,2,30,140,44140,La Regrippière,1559,26,1585,44
+52,Pays de la Loire,44,2,30,141,44141,La Remaudière,1288,13,1301,44
+52,Pays de la Loire,44,2,07,142,44142,Remouillé,1932,38,1970,44
+52,Pays de la Loire,44,2,,143,44143,Rezé,43349,706,44055,44
+52,Pays de la Loire,44,5,18,144,44144,Riaillé,2358,51,2409,44
+52,Pays de la Loire,44,2,10,145,44145,Rouans,3272,52,3324,44
+52,Pays de la Loire,44,5,06,146,44146,Rougé,2152,39,2191,44
+52,Pays de la Loire,44,5,06,148,44148,Ruffigné,705,12,717,44
+52,Pays de la Loire,44,5,08,149,44149,Saffré,4075,58,4133,44
+52,Pays de la Loire,44,2,21,150,44150,Saint-Aignan-Grandlieu,3991,52,4043,44
+52,Pays de la Loire,44,3,02,151,44151,Saint-André-des-Eaux,6949,181,7130,44
+52,Pays de la Loire,44,3,19,152,44152,Sainte-Anne-sur-Brivet,3014,53,3067,44
+52,Pays de la Loire,44,5,06,153,44153,Saint-Aubin-des-Châteaux,1749,49,1798,44
+52,Pays de la Loire,44,3,23,154,44154,Saint-Brevin-les-Pins,14645,363,15008,44
+52,Pays de la Loire,44,2,28,155,44155,Saint-Colomban,3499,72,3571,44
+52,Pays de la Loire,44,2,28,156,44156,Corcoué-sur-Logne,3209,44,3253,44
+52,Pays de la Loire,44,2,10,157,44157,Saint-Étienne-de-Mer-Morte,1764,21,1785,44
+52,Pays de la Loire,44,2,03,158,44158,Saint-Étienne-de-Montluc,7739,195,7934,44
+52,Pays de la Loire,44,2,31,159,44159,Saint-Fiacre-sur-Maine,1246,26,1272,44
+52,Pays de la Loire,44,3,19,161,44161,Saint-Gildas-des-Bois,3790,70,3860,44
+52,Pays de la Loire,44,2,,162,44162,Saint-Herblain,50561,721,51282,44
+52,Pays de la Loire,44,5,01,163,44163,Vair-sur-Loire,4890,109,4999,44
+52,Pays de la Loire,44,3,10,164,44164,Saint-Hilaire-de-Chaléons,2376,47,2423,44
+52,Pays de la Loire,44,2,07,165,44165,Saint-Hilaire-de-Clisson,2405,47,2452,44
+52,Pays de la Loire,44,2,23,166,44166,Saint-Jean-de-Boiseau,6024,98,6122,44
+52,Pays de la Loire,44,3,09,168,44168,Saint-Joachim,4125,57,4182,44
+52,Pays de la Loire,44,2,30,169,44169,Saint-Julien-de-Concelles,7768,124,7892,44
+52,Pays de la Loire,44,5,06,170,44170,Saint-Julien-de-Vouvantes,963,20,983,44
+52,Pays de la Loire,44,2,21,171,44171,Saint-Léger-les-Vignes,2114,28,2142,44
+52,Pays de la Loire,44,2,04,172,44172,Sainte-Luce-sur-Loire,16227,285,16512,44
+52,Pays de la Loire,44,2,07,173,44173,Saint-Lumine-de-Clisson,2118,45,2163,44
+52,Pays de la Loire,44,2,28,174,44174,Saint-Lumine-de-Coutais,2390,41,2431,44
+52,Pays de la Loire,44,3,09,175,44175,Saint-Lyphard,5246,106,5352,44
+52,Pays de la Loire,44,3,27,176,44176,Saint-Malo-de-Guersac,3221,52,3273,44
+52,Pays de la Loire,44,2,10,178,44178,Saint-Mars-de-Coutais,2644,46,2690,44
+52,Pays de la Loire,44,5,18,179,44179,Saint-Mars-du-Désert,5435,85,5520,44
+52,Pays de la Loire,44,5,01,180,44180,Vallons-de-l'Erdre,6625,109,6734,44
+52,Pays de la Loire,44,3,20,182,44182,Saint-Michel-Chef-Chef,5520,103,5623,44
+52,Pays de la Loire,44,3,09,183,44183,Saint-Molf,2859,60,2919,44
+52,Pays de la Loire,44,3,,184,44184,Saint-Nazaire,73111,1667,74778,44
+52,Pays de la Loire,44,5,19,185,44185,Saint-Nicolas-de-Redon,3304,63,3367,44
+52,Pays de la Loire,44,2,10,186,44186,Sainte-Pazanne,7209,145,7354,44
+52,Pays de la Loire,44,3,23,187,44187,Saint-Père-en-Retz,4701,146,4847,44
+52,Pays de la Loire,44,2,28,188,44188,Saint-Philbert-de-Grand-Lieu,9392,205,9597,44
+52,Pays de la Loire,44,3,19,189,44189,Sainte-Reine-de-Bretagne,2447,34,2481,44
+52,Pays de la Loire,44,2,29,190,44190,Saint-Sébastien-sur-Loire,28373,623,28996,44
+52,Pays de la Loire,44,3,23,192,44192,Saint-Viaud,2846,56,2902,44
+52,Pays de la Loire,44,5,08,193,44193,Saint-Vincent-des-Landes,1527,21,1548,44
+52,Pays de la Loire,44,2,24,194,44194,Sautron,8534,128,8662,44
+52,Pays de la Loire,44,3,03,195,44195,Savenay,9465,193,9658,44
+52,Pays de la Loire,44,3,19,196,44196,Sévérac,1693,26,1719,44
+52,Pays de la Loire,44,5,08,197,44197,Sion-les-Mines,1658,34,1692,44
+52,Pays de la Loire,44,2,31,198,44198,Les Sorinières,9163,117,9280,44
+52,Pays de la Loire,44,5,06,199,44199,Soudan,1965,49,2014,44
+52,Pays de la Loire,44,5,06,200,44200,Soulvache,339,8,347,44
+52,Pays de la Loire,44,5,05,201,44201,Sucé-sur-Erdre,7457,172,7629,44
+52,Pays de la Loire,44,5,18,202,44202,Teillé,1820,25,1845,44
+52,Pays de la Loire,44,2,03,203,44203,Le Temple-de-Bretagne,2005,36,2041,44
+52,Pays de la Loire,44,2,04,204,44204,Thouaré-sur-Loire,10956,167,11123,44
+52,Pays de la Loire,44,5,18,205,44205,Les Touches,2619,35,2654,44
+52,Pays de la Loire,44,2,28,206,44206,Touvois,1936,27,1963,44
+52,Pays de la Loire,44,5,18,207,44207,Trans-sur-Erdre,1124,10,1134,44
+52,Pays de la Loire,44,5,08,208,44208,Treffieux,976,8,984,44
+52,Pays de la Loire,44,5,05,209,44209,Treillières,10414,207,10621,44
+52,Pays de la Loire,44,3,27,210,44210,Trignac,8234,82,8316,44
+52,Pays de la Loire,44,3,09,211,44211,La Turballe,4862,109,4971,44
+52,Pays de la Loire,44,2,30,212,44212,Vallet,9524,214,9738,44
+52,Pays de la Loire,44,5,01,213,44213,Loireauxence,7509,127,7636,44
+52,Pays de la Loire,44,5,08,214,44214,Vay,2084,41,2125,44
+52,Pays de la Loire,44,2,31,215,44215,Vertou,26048,439,26487,44
+52,Pays de la Loire,44,2,07,216,44216,Vieillevigne,4110,59,4169,44
+52,Pays de la Loire,44,5,05,217,44217,Vigneux-de-Bretagne,6633,97,6730,44
+52,Pays de la Loire,44,5,06,218,44218,Villepot,687,15,702,44
+52,Pays de la Loire,44,2,10,220,44220,Vue,1716,23,1739,44
+52,Pays de la Loire,44,5,08,221,44221,La Chevallerais,1559,24,1583,44
+52,Pays de la Loire,44,5,01,222,44222,La Roche-Blanche,1258,19,1277,44
+52,Pays de la Loire,44,2,28,223,44223,Geneston,3691,66,3757,44
+52,Pays de la Loire,44,5,08,224,44224,La Grigonnais,1815,22,1837,44
