@@ -14,8 +14,7 @@ L'objectif est de quantifier la **thermosensibilité estivale** nantaise pour ai
 ## 🗂️ Structure du Dépôt
 * `data/` : Contient les fichiers de données brutes.
 * `dbt_nantes_electricity/` : Requêtes d'agrégation dbt.
-* `notebooks/` : Scripts Python d'ingestion, Analyses exploratoires, corrélations Consommation vs Températures et entraînement du modèle de ML.
-* `sql/` : Modèles d'analyse.
+* `scripts/` : Scripts Python d'ingestion, Analyses exploratoires, corrélations Consommation vs Températures et entraînement du modèle de ML.
 * `output/` : Graphiques de prévision et KPIs pour les décideurs publics.
 
 ## 📊 Données Utilisées
@@ -23,4 +22,4 @@ L'objectif est de quantifier la **thermosensibilité estivale** nantaise pour ai
 2. **Historique Météo :** Relevés horaires de la station Nantes-Atlantique (API Open-Meteo).
 3. **Projections Climatiques :** Scénarios GIEC (RCP 4.5 / 8.5) à l'horizon 2035 et 2050 via le portail DRIAS Climat.
 
-## 🚀 Comment exécuter le projet
+## Lien du Dashboard : https://datastudio.google.com/s/l8ne_3KsLWw
